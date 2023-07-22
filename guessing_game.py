@@ -118,7 +118,7 @@ def start_play(limits, n_trials):
   flag = False
   user_trials = 0
 
-  for trial in range(n_trials): # عشان ما نكتب جملة الادخال من اليوزر أكتر من مرة while loop الأفضل نستخدم
+  for trial in range(n_trials): 
     user_trials += 1
     if gussed_num == num:
       flag = True
