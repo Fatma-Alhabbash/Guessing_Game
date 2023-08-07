@@ -20,3 +20,5 @@ The functions used in this example are explained below:
     This function determines if the user wants to play again or not.
 6. ```play()``` function:
     This is the last function used to call other needed functions in the program and initialize the game.
+
+*Thanks for taking the time to review this project. I hope you found it useful.*
