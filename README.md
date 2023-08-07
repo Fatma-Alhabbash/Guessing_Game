@@ -7,7 +7,7 @@ What is the game?
 Based on a program that generates a random number, the player should be able to determine this number after a few trials.
 
 
-The functions used in this example are explained below:
+The functions used in this project are explained below:
 1. ```show_levels()``` function:
     This function prints the levels and conditions of the game.
 2. ```game_level_choice()``` function:
